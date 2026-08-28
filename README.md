@@ -70,14 +70,14 @@ So the GLUT header and library need to be installed properly.
 
 ## Project Structure: 
 
-Flying-Birds-Animation/
+Flying-Birds-OpenGL/
 │
-├── Main-Folder/
-│   └── MyProject.cpp
-│
+├── MyProject.cpp
+├── output.png
 └── README.md
 
-"MyProject.cpp" contains the main source code of the project.
+"MyProject.cpp" contains the main source code of the project. The output.png file is used to keep the output screenshot.
+
 
 
  ## How to Build: 
@@ -220,6 +220,9 @@ The output looks like a simple natural scene with a blue sky, sun, clouds, mount
  Screenshot of the running program:
 
  
+![Project Output](output.png)
+
+ 
 
  ## Conclusion: 
 
@@ -228,6 +231,4 @@ This project helped me understand how basic OpenGL shapes can be combined to cre
 I also learned how to add simple animation using GLUT timers and how keyboard input can be used to control the animation.
 
 Overall, it is a simple OpenGL project made for practicing 2D graphics and animation.
-## Output Preview
 
-![Project Output](output.png)
