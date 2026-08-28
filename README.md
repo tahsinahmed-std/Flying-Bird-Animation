@@ -68,13 +68,15 @@ The project uses:
 So the GLUT header and library need to be installed properly.
 
 
-## Project Structure: 
+## Project Structure
 
+```text
 Flying-Birds-OpenGL/
 │
 ├── MyProject.cpp
 ├── output.png
 └── README.md
+```
 
 "MyProject.cpp" contains the main source code of the project. The output.png file is used to keep the output screenshot.
 
