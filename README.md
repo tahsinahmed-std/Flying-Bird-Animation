@@ -228,3 +228,6 @@ This project helped me understand how basic OpenGL shapes can be combined to cre
 I also learned how to add simple animation using GLUT timers and how keyboard input can be used to control the animation.
 
 Overall, it is a simple OpenGL project made for practicing 2D graphics and animation.
+## Output Preview
+
+![Project Output](output.png)
